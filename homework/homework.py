@@ -1,3 +1,17 @@
+# ==============================================================================
+# HOMEWORK: Predicción de Precios de Vehículos usando Regresión Lineal
+# ==============================================================================
+#
+# CÓMO EJECUTAR:
+# 1. Para ver el código sin entrenar: python homework/homework.py
+# 2. Para entrenar el modelo: Cambia SKIP_TRAINING = False al final del archivo
+# 3. El entrenamiento toma ~2-5 minutos
+#
+# ARCHIVOS GENERADOS:
+# - files/models/model.pkl.gz: Modelo entrenado (comprimido)
+# - files/output/metrics.json: Métricas de rendimiento
+#
+# ==============================================================================
 #
 # En este dataset se desea pronosticar el precio de vhiculos usados. El dataset
 # original contiene las siguientes columnas:
